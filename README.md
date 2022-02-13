@@ -62,31 +62,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-
-
-<!-- My -->
-Admin Panel Credentials
-------------------------
-admin@gmail.com
-Admin@123
-
-SMS OTP Verification 
----------------------
-
-https://www.itsolutionstuff.com/post/laravel-8-firebase-mobile-number-otp-authentication-tutorialexample.html
-
-step 1
--------
-https://console.firebase.google.com/u/0/?pli=1
-
-Project Name : store-management
-
-
-Install Firebase CLI
-----------------------
-npm install -g firebase-tools
-
-Doesn't work? Take a look at the Firebase CLI reference or change your npm permissions
-Firebase CLI reference - https://firebase.google.com/docs/cli/?authuser=1
-npm permissions - https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
