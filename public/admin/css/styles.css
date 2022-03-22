@@ -1,0 +1,12 @@
+/*Dashboard Section - start*/
+.dashboard__sec .order__status__box {
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 10px auto;
+}
+.dashboard__sec .order__status__box span {
+	font-size: 40px;
+	font-weight: 600;
+}
+/*Dashboard Section - end*/
